@@ -4,4 +4,4 @@ Project ATM yang mampu melakukan proses keuangan dasar seperti registrasi akun, 
 
 ## Tech Stack
 
-- Javascript, MySQL
+- Javascript, MySQL + node.js
